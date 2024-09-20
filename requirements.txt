@@ -1,0 +1,13 @@
+pyqt5
+pyqt-tools
+pywhatkit
+pyttsx3
+datetime
+googletrans
+
+wikipedia
+pyjokes
+serial
+SpeechRecognition
+
+# pip install -r requirements.txt
