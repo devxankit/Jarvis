@@ -27,7 +27,7 @@ from bs4 import BeautifulSoup
 from jarvis_mark5_GUI import Ui_JarvisOverlayGUI
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'key'
 
 # conversation = [
 #     {"role": "system", "content": "Your name is Jarvis and your purpose is to be Ankit's AI assistant"},
